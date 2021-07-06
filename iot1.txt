@@ -1,0 +1,38 @@
+ECE_C04
+
+
+speech to text:
+
+IQf9podGPyWc6m70ivWd4K5sUUTnEm2TSaXArHgbjHUJ : API KEY
+https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/e190ba6c-0ec6-48b5-8fce-4633a8409873 : URL
+
+
+text to speech:
+
+rtUFNbPH2hHqafHjdYYXnAp6Wz_s4jBOwKuvkGxz2Lx- : API KEY
+https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/45650cf3-8c93-4d32-8b6b-b4c51d522023 : URL
+
+Watson assistant:
+
+-Od2Jdo1vt6KNmP93r_oKk7qJeY5h10Xt2SdA5jyN4so : API KEY
+https://api.us-south.assistant.watson.cloud.ibm.com/instances/37adaab9-999d-4740-b296-ad28aca7a435 : URL
+https://api.us-south.assistant.watson.cloud.ibm.com/instances/37adaab9-999d-4740-b296-ad28aca7a435/v2/assistants/2844f4d0-401c-4619-aa82-b3daaa9e78b7 : sessions : assisstant URL
+ 
+
+Node red
+
+ypCx2gpJzMVp6qhqBWuGBbb66ZvK8MX5oCfd1P1g5XyA : API KEY
+https://apikey-v2-38b3qncileavnkxrvabhrpf5nw75fdg9r37sg7vpjxfq:dd271d5fc308aed4b1c3b3110d1de688@278116a7-aa10-4b6f-b06b-f12106fd11ea-bluemix.cloudantnosqldb.appdomain.cloud : URL
+
+
+
+
+===========================================================================================================================================================================================================
+
+Questions and Answers : 
+what is the opening time : 9a.m
+what are the live events present at 11.30a.m : food carnival,movie
+unique feature about the park : the fountain
+where is the toystore : next to the movie theatre
+what is the closing time : 6 p.m
+
